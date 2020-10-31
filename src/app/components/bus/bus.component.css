@@ -1,0 +1,11 @@
+.add-people {
+  border-radius: 3px;
+  background-color: cornflowerblue;
+  height: 80px;
+  width: 140px;
+  cursor: pointer;
+}
+
+.add-people:hover {
+  background-color: aliceblue;
+}
